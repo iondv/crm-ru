@@ -1,0 +1,16 @@
+{
+  "code": "typeTask",
+  "orderNumber": 100,
+  "type": 0,
+  "title": "",
+  "caption": "Типы заявок",
+  "classname": null,
+  "container": null,
+  "collection": null,
+  "url": null,
+  "hint": null,
+  "conditions": [],
+  "sorting": [],
+  "pathChains": [],
+  "metaVersion": "2.0.7"
+}
