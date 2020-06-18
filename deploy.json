@@ -1,5 +1,5 @@
 {
-  "namespace": "crm",
+  "namespace": "crm-ru",
   "globals": {
     "moduleTitles": {
       "registry": "Тех. поддержка",
@@ -63,11 +63,11 @@
       "globals": {
         "defaultImageDir": "images",
         "contentImageStorage": "htmlImages",
-        "defaultPath": "crm@task",
+        "defaultPath": "crm-ru@task",
         "inlineForm": true,
         "navigation": {
           "namespaces": {
-            "crm": "Тех. поддержка"
+            "crm-ru": "Тех. поддержка"
           },
           "menus": {
             "left": [
@@ -76,14 +76,14 @@
           }
         },
         "templates": [
-          "applications/crm/templates/registry"
+          "applications/crm-ru/templates/registry"
         ],
         "statics": {
-          "crm-static": "applications/crm/templates/registry/static"
+          "crm-static": "applications/crm-ru/templates/registry/static"
         },  
         "createByCopy": [
-            "task@crm",
-            "telEvent@crm"
+            "task@crm-ru",
+            "telEvent@crm-ru"
         ],
         "di": {
           "dataRepo": {
@@ -110,18 +110,18 @@
     "report": {
       "globals": {
         "namespaces": {
-          "crm": "CRM"
+          "crm-ru": "CRM"
         },
         "metaNav": {
           "left": []
         },
         "defaultNav": {
-          "namespace": "crm",
+          "namespace": "crm-ru",
           "mine": "support",
           "report": "technicalSupport"
         },
         "mineBuilders": {
-          "crm": {
+          "crm-ru": {
             "support": {
               "task": "mineBuilder",
               "support": "mineBuilder",
@@ -133,8 +133,8 @@
         }
       },
       "import": {
-        "src": "applications/crm/bi",
-        "namespace": "crm"
+        "src": "applications/crm-ru/bi",
+        "namespace": "crm-ru"
       }
     }
   }

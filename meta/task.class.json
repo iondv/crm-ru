@@ -6,7 +6,7 @@
   "semantic": "subjectTask| |typeTask",
   "name": "task",
   "version": "",
-  "caption": "Заявки",
+  "caption": "Обращения",
   "ancestor": "event",
   "container": null,
   "creationTracker": "dateCreate",
@@ -342,7 +342,16 @@
       "backColl": null,
       "binding": null,
       "semantic": null,
-      "selConditions": [],
+      "selConditions": [
+        {
+          "property": "user",
+          "operation": 0,
+          "value": [
+            "$user"
+          ],
+          "nestedConditions": []
+        }
+      ],
       "selSorting": [],
       "selectionProvider": null,
       "indexSearch": false,

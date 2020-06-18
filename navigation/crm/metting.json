@@ -1,7 +1,7 @@
 {
   "code": "metting",
-  "orderNumber": 2,
-  "type": 1,
+  "orderNumber": 10,
+  "type": 5,
   "title": "",
   "caption": "Встреча",
   "classname": "mettingEvent",

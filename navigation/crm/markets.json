@@ -1,10 +1,10 @@
 {
-  "code": "product",
-  "orderNumber": 10,
-  "type": 1,
+  "code": "markets",
+  "orderNumber": 15,
+  "type": 0,
   "title": "",
-  "caption": "Продукт",
-  "classname": "Product",
+  "caption": "Маркетинг",
+  "classname": null,
   "container": null,
   "collection": null,
   "url": null,
@@ -12,5 +12,5 @@
   "conditions": [],
   "sorting": [],
   "pathChains": [],
-  "metaVersion": "2.0.61.15690"
+  "metaVersion": "2.0.7"
 }

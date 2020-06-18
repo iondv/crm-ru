@@ -1,9 +1,9 @@
 {
   "code": "typeTask",
-  "orderNumber": 100,
+  "orderNumber": 20,
   "type": 0,
   "title": "",
-  "caption": "Типы заявок",
+  "caption": "Типы обращений",
   "classname": null,
   "container": null,
   "collection": null,
