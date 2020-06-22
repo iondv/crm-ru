@@ -4,7 +4,7 @@
   "type": 1,
   "title": "",
   "caption": "Продукт",
-  "classname": "Product",
+  "classname": "product",
   "container": null,
   "collection": null,
   "url": null,

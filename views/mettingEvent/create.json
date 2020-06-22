@@ -57,7 +57,7 @@
         },
         {
           "caption": "Персона",
-          "type": 2,
+          "type": 5,
           "property": "person",
           "size": 2,
           "maskName": null,
@@ -83,7 +83,7 @@
         },
         {
           "caption": "Сотрудник",
-          "type": 2,
+          "type": 5,
           "property": "worker",
           "size": 2,
           "maskName": null,
@@ -109,7 +109,7 @@
         },
         {
           "caption": "Организация",
-          "type": 2,
+          "type": 5,
           "property": "organiz",
           "size": 2,
           "maskName": null,
@@ -135,7 +135,7 @@
         },
         {
           "caption": "Событие",
-          "type": 2,
+          "type": 5,
           "property": "event",
           "size": 2,
           "maskName": null,
