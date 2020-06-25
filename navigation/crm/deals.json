@@ -1,9 +1,9 @@
 {
-  "code": "markets",
+  "code": "deals",
   "orderNumber": 15,
   "type": 0,
   "title": "",
-  "caption": "Маркетинг",
+  "caption": "Сделки",
   "classname": null,
   "container": null,
   "collection": null,

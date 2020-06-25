@@ -5,7 +5,7 @@
       "fullFields": [
         {
           "caption": "Тип маркетинга",
-          "type": 2,
+          "type": 5,
           "property": "typeEvent",
           "size": 2,
           "maskName": null,

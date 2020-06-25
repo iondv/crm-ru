@@ -5,7 +5,7 @@
       "fullFields": [
         {
           "caption": "Тип маркетинга",
-          "type": 2,
+          "type": 5,
           "property": "typeEvent",
           "size": 2,
           "maskName": null,
@@ -578,16 +578,6 @@
   "overrideMode": 1,
   "commands": [
     {
-      "id": "DELETE",
-      "caption": "Удалить",
-      "visibilityCondition": null,
-      "enableCondition": null,
-      "needSelectedItem": false,
-      "signBefore": false,
-      "signAfter": false,
-      "isBulk": false
-    },
-    {
       "id": "SAVE",
       "caption": "Сохранить",
       "visibilityCondition": null,
@@ -600,6 +590,16 @@
     {
       "id": "SAVEANDCLOSE",
       "caption": "Сохранить и закрыть",
+      "visibilityCondition": null,
+      "enableCondition": null,
+      "needSelectedItem": false,
+      "signBefore": false,
+      "signAfter": false,
+      "isBulk": false
+    },
+    {
+      "id": "DELETE",
+      "caption": "Удалить",
       "visibilityCondition": null,
       "enableCondition": null,
       "needSelectedItem": false,

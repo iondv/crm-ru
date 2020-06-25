@@ -1,10 +1,10 @@
 {
-  "code": "markets.saleEvent",
-  "orderNumber": 3,
+  "code": "deals.selling",
+  "orderNumber": 7,
   "type": 1,
   "title": "",
-  "caption": "Событие продажи",
-  "classname": "saleEvent",
+  "caption": "Продажа",
+  "classname": "selling",
   "container": null,
   "collection": null,
   "url": null,
@@ -12,5 +12,5 @@
   "conditions": [],
   "sorting": [],
   "pathChains": [],
-  "metaVersion": "2.0.61.15690"
+  "metaVersion": "2.0.7"
 }
