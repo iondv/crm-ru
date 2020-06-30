@@ -93,7 +93,9 @@
           "applications/crm-ru/templates/registry"
         ],
         "statics": {
-          "crm-static": "applications/crm-ru/templates/registry/static"
+          "crm-static": "applications/crm-ru/templates/registry/static",
+          "app-vendor": "applications/crm-ru/themes/registry/node_modules",
+          "common-static": "applications/crm-ru/templates/static"
         },  
         "createByCopy": [
             "task@crm-ru",

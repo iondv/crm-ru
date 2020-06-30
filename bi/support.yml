@@ -298,6 +298,8 @@ reports:
         groups:
           fields:
             - organiz
+            - product
+            - event
   - name: marketingPeriod
     caption: Маркетинговые мероприятия
     sheets:
@@ -332,6 +334,8 @@ reports:
         groups:
           fields:
             - typeEvent
+            - product
+            - participants
   - name: supportScenario
     caption: Сценарии поддержки
     sheets:
