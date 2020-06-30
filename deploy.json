@@ -75,6 +75,20 @@
             ]
           }
         },
+        "eagerLoading": {
+          "*": {
+            "saleEvent@crm-ru": {
+              "list": [
+                "selling.organiz.organName"
+              ]
+            },
+            "selling@crm-ru": {
+              "list": [
+                "product.name.name"
+              ]
+            }
+          }
+        },
         "templates": [
           "applications/crm-ru/templates/registry"
         ],
@@ -125,7 +139,9 @@
             "support": {
               "task": "mineBuilder",
               "support": "mineBuilder",
-              "supportScenarioSource": "mineBuilder"
+              "supportScenarioSource": "mineBuilder",
+              "selling": "mineBuilder",
+              "marketing": "mineBuilder"
             }
           }
         },
@@ -135,6 +151,21 @@
       "import": {
         "src": "applications/crm-ru/bi",
         "namespace": "crm-ru"
+      }
+    },
+    "dashboard": {
+      "globals": {
+        "namespaces": {
+          "crm-ru": "Техническая поддержка"
+        },
+        "root": {
+          "sakh-pm": "applications/crm-ru/dashboard"
+        },
+        "layouts": {
+          "task": {
+            "title": "Обращения"
+          }
+        }
       }
     }
   }
