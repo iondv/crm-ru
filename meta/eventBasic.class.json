@@ -9,7 +9,7 @@
   "caption": "Событие",
   "ancestor": null,
   "container": null,
-  "creationTracker": "creatDate",
+  "creationTracker": "dateCreate",
   "changeTracker": "",
   "creatorTracker": "",
   "editorTracker": "",
@@ -390,7 +390,7 @@
     },
     {
       "orderNumber": 120,
-      "name": "creatDate",
+      "name": "dateCreate",
       "caption": "Дата создания",
       "type": 9,
       "size": null,

@@ -470,7 +470,7 @@
               "sorted": true,
               "caption": "Дата создания",
               "type": 6,
-              "property": "creatDate",
+              "property": "dateCreate",
               "size": 2,
               "maskName": null,
               "mask": null,

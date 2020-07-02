@@ -390,7 +390,7 @@
       "selConditions": [],
       "selSorting": [
         {
-          "property": "creatDate",
+          "property": "dateCreate",
           "mode": 1
         }
       ],
