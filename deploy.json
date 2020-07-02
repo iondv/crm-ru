@@ -84,7 +84,40 @@
             },
             "selling@crm-ru": {
               "list": [
-                "product.name.name"
+                "product.name.name",
+                "organiz.region.name",
+                "market.typeEvent.name"
+              ]
+            },
+            "marketing@crm-ru": {
+              "list": [
+                "organization.region.name",
+                "selling.organiz.region.name"
+              ],
+              "item": [
+                "selling.organiz.region.name"
+              ]
+            },
+            "worker@crm-ru": {
+              "list": [
+                "organiz.region.name"
+              ]
+            },
+            "event@crm-ru": {
+              "list": [
+                "worker.role.name",
+                "worker.person"
+              ]
+            },
+            "person@crm-ru": {
+              "list": [
+                "organPerson.region.name",
+                "eventSend.organiz"
+              ]
+            },
+            "organization@crm-ru": {
+              "list": [
+                "eventMarket.typeEvent.name"
               ]
             }
           }

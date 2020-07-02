@@ -30,7 +30,7 @@
       "sorted": true,
       "caption": "Создана сотрудником",
       "type": 1,
-      "property": "creatorLogin",
+      "property": "oworker",
       "size": 2,
       "maskName": null,
       "mask": null,

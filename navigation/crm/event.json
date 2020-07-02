@@ -10,9 +10,6 @@
   "url": null,
   "hint": null,
   "conditions": [],
-  "allowedSubclasses": [
-    "event"
-  ],
   "sorting": [],
   "pathChains": [],
   "metaVersion": "2.0.61.15690"
