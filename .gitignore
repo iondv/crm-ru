@@ -3,7 +3,7 @@ patches/
 .vscode/
 /test/import/*.xlsx
 /test/import/*.xls
-
+/static/vendor
 
 ### Eclipse template
 *.pydevproject

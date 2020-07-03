@@ -153,6 +153,13 @@
               "maxEagerDepth": 4
             }
           }
+        },
+        "dashboard": {
+          "crm-ru": {
+            "modules": {
+              "dashboard": {}
+            }
+          }
         }
       }
     },
@@ -194,7 +201,7 @@
           "crm-ru": "Техническая поддержка"
         },
         "root": {
-          "sakh-pm": "applications/crm-ru/dashboard"
+          "crm-ru": "applications/crm-ru/dashboard"
         },
         "layouts": {
           "task": {
