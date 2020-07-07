@@ -1,6 +1,7 @@
 {
   "namespace": "crm-ru",
   "globals": {
+    "pageTitle": "ИС CRM",
     "moduleTitles": {
       "registry": "Тех. поддержка",
       "report": "Отчеты"
@@ -92,7 +93,8 @@
             "marketing@crm-ru": {
               "list": [
                 "organization.region.name",
-                "selling.organiz.region.name"
+                "selling.organiz.region.name",
+                "product.name.name"
               ],
               "item": [
                 "selling.organiz.region.name"
