@@ -129,7 +129,7 @@
         ],
         "statics": {
           "crm-static": "applications/crm-ru/templates/registry/static",
-          "app-vendor": "applications/crm-ru/themes/registry/node_modules",
+          "app-vendor": "applications/crm-ru/themes/registry/vendor",
           "common-static": "applications/crm-ru/templates/static"
         },  
         "createByCopy": [
@@ -153,6 +153,13 @@
                 }
               },
               "maxEagerDepth": 4
+            }
+          }
+        },
+        "dashboard": {
+          "crm-ru": {
+            "modules": {
+              "dashboard": {}
             }
           }
         }
@@ -196,7 +203,7 @@
           "crm-ru": "Техническая поддержка"
         },
         "root": {
-          "sakh-pm": "applications/crm-ru/dashboard"
+          "crm-ru": "applications/crm-ru/dashboard"
         },
         "layouts": {
           "task": {
