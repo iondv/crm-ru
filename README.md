@@ -13,7 +13,7 @@ IONDV. CRM – это программное решение на основе IO
 
 ## Демо
 
-Демо доступ в систему для ознакомления, без регистрации: https://crm-ru.iondv.ru
+Демо доступ в систему для ознакомления, без регистрации: https://crm-ru.iondv.com
 
 Логин **demo**, пароль **ion-demo**.
 
@@ -60,5 +60,5 @@ curl -L -s https://github.com/iondv/iondv-app/archive/master.zip > iondv-app.zip
 
 ## Ссылки
 Для дополнительной информации смотрите следующие ресурсы:
-- [IONDV. Framework](https://iondv.com/portal/index)
+- [IONDV. Framework](https://iondv.com/)
 - [Facebook](https://www.facebook.com/iondv/)
