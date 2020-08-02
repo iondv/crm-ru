@@ -1,3 +1,7 @@
+IONDV. CRM-ru is a software (Russian version) solution based on the IONDV. Framework, implemented for the organization of registration, accounting, storage and display of business data (incoming requests, calls, visitors, products, services). You can get the English version here https://github.com/iondv/crm-en
+
+Read in Russian below.
+
 # IONDV. CRM
 ## Описание
 
